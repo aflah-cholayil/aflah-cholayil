@@ -111,24 +111,23 @@ These repository links open real projects on my GitHub:
 
 ## 💼 Experience
 
-**Healthcare Technology — Prompt Engineering & Product Development Internship**  
+**Healthcare Technology - Prompt Engineering & Product Development Internship**  
 Medical Supplierz / MedicalIn AI
 - Investigating application bugs and improving frontend/backend workflows
 - Working with Supabase, database access rules, authentication, notifications, and integrations
 - Performing feature audits and regression testing to avoid breaking existing functionality
 
-**Data Science & Analytics Intern — Future Interns (2025)**
+**Data Science & Analytics Intern - Future Interns (2025)**
 - Sentiment analysis, sales forecasting, and financial analytics
 
-**Data Science Intern — Prodigy Infotech (2024)**
+**Data Science Intern - Prodigy Infotech (2024)**
 - Data analysis, machine learning experiments, and visualizations
 
 ## 🎓 Education & Learning
 
-- **B.E., Computer Science & Engineering** — CSI College of Engineering
-- **Postgraduate Program in Data Science & Analytics with GenAI** — Imarticus Learning
-- **Post Graduate Diploma in Logistics & Supply Chain Excellence** — Chartered Institute of Logistics and Transport (CILT)
-- **The Data Science Course: Complete Data Science Bootcamp 2025** — Udemy
+- **B.E., Computer Science & Engineering** - CSI College of Engineering
+- **Postgraduate Program in Data Science & Analytics with GenAI** - Imarticus Learning
+- **The Data Science Course: Complete Data Science Bootcamp 2025** - Udemy
 
 ## 📈 GitHub Statistics
 
